@@ -29,7 +29,7 @@ description:           >
   with a focus on personal sites that are meant to impress.
 
 # A shorter description for the sidebar.
-tagline:               All you need to know about my as a Java Engineer
+tagline:               All you need to know about me as a Java Engineer
 
 # A list of keywords for your blog
 keywords:              []
@@ -42,10 +42,10 @@ logo:                  /assets/img/logo.png
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
   # Used by `jekyll-feed`:
-  name:                Ikechukwu Ezugworie
-  email:               i.ezugworie@gmail.com
+  name:                <Ikechukwu> <Ezugworie>
+  email:               <i.ezugworie@gmail.com>
   # # Used by `jekyll-seo-tag`:
-  # twitter:             <username>
+  # twitter:             <@iyk3ze>
 
 # Add links to the sidebar.
 menu:
